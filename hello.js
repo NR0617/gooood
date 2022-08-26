@@ -1,2 +1,2 @@
 console.log("gkdl");
-const 우헤헤 = 0;
+const 우헤헤 = 10;
